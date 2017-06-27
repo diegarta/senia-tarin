@@ -1,0 +1,13 @@
+Source: senia-tarin
+Section: metapackages
+Priority: extra
+Maintainer: Diego García <diegarta@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+
+Package: senia-tarin-tools
+Architecture: all
+Depends: ${misc:Depends}, tree
+Description: me flipa to esto
+ Customized backgrounds for SENIA IES 
+ me flipa to esto
