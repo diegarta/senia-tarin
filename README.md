@@ -1,2 +1,2 @@
 # senia-tarin
-curso pruebas totales
+curso pruebas totales guapas
